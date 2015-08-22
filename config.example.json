@@ -1,0 +1,12 @@
+{
+  "irc": {
+    "host": "irc.freenode.net",
+    "nick": "imgbot_x",
+    "channels": ["#imgbot"]
+  },
+
+  "web": {
+    "port": 3000,
+    "webAddress": "http://localhost:3000"
+  }
+}
